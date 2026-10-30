@@ -1,16 +1,3 @@
-lallalalala
+echo "This is a test!"
 
-
-
-
-allalalalal
-
-
-
-
-allallalallallalalal
-
-
-
-
-pip install litellm
+// pip install litellm
